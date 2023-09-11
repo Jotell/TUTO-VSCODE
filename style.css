@@ -1,0 +1,44 @@
+body {
+    margin: 0em;
+}
+
+.titulo {
+    color: rgb(255, 255, 255);
+    height: 400px;
+    background-image: url("jorge_ramirez.jpg");
+    background-position: center;
+    background-color: rgba(000, 000, 000, 0.3);
+    background-blend-mode: darken;
+    background-size: cover;
+}
+
+.titulo p {
+    font-weight: bold;
+    font-size: 1.5rem;
+
+}
+
+.card {
+    border: 2px solid #ff0000;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.cover-small {
+    height: 200px;
+    background-size: cover;
+
+}
+
+.card-title {
+    height: 3rem;
+
+
+}
+
+.card-text {
+    height: 8rem;
+
+
+
+}
